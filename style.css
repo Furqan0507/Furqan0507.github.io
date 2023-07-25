@@ -111,4 +111,9 @@ button:hover span{
     border: none;
 }
 
+.visit-counter{
+    position:relative;
+    height: inherit;
+
+    }
 
